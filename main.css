@@ -20,14 +20,14 @@ body {
     width: 300px;
 }
 .slider h1 {
-    font-size: 2em;
+    font-size: 1em;
     margin: 0;
     padding: 0;
 }
 
 .logo img {
     margin-top: 2em;
-    width: 150px;
+    width: 100px;
 }
 
 .arrow{
